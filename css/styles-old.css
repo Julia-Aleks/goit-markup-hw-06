@@ -154,10 +154,10 @@
   color: #2e2f42;
 }
 
-.team-section {
+/* .team-section {
   background-color: #f4f4fd;
   padding: 120px 0;
-}
+} */
 
 .name-container {
   padding: 32px 0;
@@ -600,6 +600,7 @@
   fill: #2e2f42;
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+
 .modal-title {
   font-weight: 500;
   font-size: 16px;
